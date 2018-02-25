@@ -6,9 +6,12 @@ These are my notes on git.
 * `git status`: gives current status of repo
 * `git add`: adds files to be tracked
 * `git commit`: dedicate yourself to a version, use -m to message
+* `git diff`: shows changes between unsaved files
 
 ---
 
 ### Tracking Changes
 
-some more changes
+some more changes/
+a few more things/
+i dont like maths/
